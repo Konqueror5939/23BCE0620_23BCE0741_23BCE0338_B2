@@ -1,0 +1,2 @@
+timestamp,mode,tasks,allocKB,sleepMs,elapsedSec,throughputTasksPerSec,heapBeforeMB,heapAfterMB,peakPoolUsedMB,gcCollections,gcTimeMs,checksum,gcNames
+2026-09-30T15:52:05.096285713Z,virtual,100,64,1,0.0699,1431.62,1.33,8.33,7.00,0,0,22200,"G1 Young Generation | G1 Concurrent GC | G1 Old Generation"

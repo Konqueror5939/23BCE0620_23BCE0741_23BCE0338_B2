@@ -1,0 +1,9 @@
+timestamp,mode,tasks,allocKB,sleepMs,elapsedSec,throughputTasksPerSec,heapBeforeMB,heapAfterMB,peakPoolUsedMB,gcCollections,gcTimeMs,checksum,gcNames
+2026-09-30T15:52:20.215260929Z,platform,2000,256,5,5.5275,361.83,6.44,8.26,255.88,2,1,276000,"PS MarkSweep | PS Scavenge"
+2026-09-30T15:52:21.257279579Z,virtual,2000,256,5,0.4390,4556.01,6.44,20.46,256.00,2,42,276000,"PS MarkSweep | PS Scavenge"
+2026-09-30T15:52:27.522983189Z,platform,2000,256,5,5.6343,354.97,1.33,564.78,563.00,2,2,276000,"G1 Young Generation | G1 Concurrent GC | G1 Old Generation"
+2026-09-30T15:52:28.500883657Z,virtual,2000,256,5,0.3705,5398.59,1.33,91.26,140.00,9,16,276000,"G1 Young Generation | G1 Concurrent GC | G1 Old Generation"
+2026-09-30T15:52:34.578178903Z,platform,2000,256,5,5.3960,370.64,4.00,266.00,270.00,8,14,276000,"ZGC Cycles | ZGC Pauses"
+2026-09-30T15:52:35.648679023Z,virtual,2000,256,5,0.3909,5116.18,4.00,364.00,364.00,8,37,276000,"ZGC Cycles | ZGC Pauses"
+2026-09-30T15:52:41.649951282Z,platform,2000,256,5,5.3571,373.34,1.50,129.00,131.51,12,9,276000,"Shenandoah Pauses | Shenandoah Cycles"
+2026-09-30T15:52:42.673182929Z,virtual,2000,256,5,0.3914,5109.32,1.50,109.50,159.95,17,63,276000,"Shenandoah Pauses | Shenandoah Cycles"
